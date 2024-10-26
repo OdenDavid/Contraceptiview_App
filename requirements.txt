@@ -1,0 +1,6 @@
+bertopic==0.15.0
+nltk==3.8.1
+pandas==2.0.3
+scikit_llm==0.2.0
+scikit-learn==1.2.2
+streamlit_option_menu
