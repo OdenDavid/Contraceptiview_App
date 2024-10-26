@@ -5,7 +5,7 @@ Overview
 -----------
 Contraceptiview is an innovative web application leveraging Natural Language Processing (NLP) and Machine Learning (ML) to analyze contraceptive reviews and side effects. Empowering women to make informed reproductive health decisions.
 
-![Contraceptiview](https://github.com/OdenDavid/Contraceptiview_App/blob/main/images/Home.png)
+![Contraceptiview]([https://github.com/OdenDavid/Contraceptiview_App/blob/main/images/Home.png](https://github.com/OdenDavid/Contraceptiview_App/blob/main/Home.png?raw=true))
 
 Project Structure
 -------------------
