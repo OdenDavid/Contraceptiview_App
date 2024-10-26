@@ -70,7 +70,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 License
 -------
-[[Insert License](https://github.com/OdenDavid/Contraceptiview_App/blob/main/LICENSE)]
+[[License](https://github.com/OdenDavid/Contraceptiview_App/blob/main/LICENSE)]
 
 Author
 --------
