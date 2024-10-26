@@ -195,9 +195,3 @@ elif selected == "Side Effect Identifier":
 
         for i in range(0,len(response["sorted_reviews"]["Reviews"])):
             st.caption(unsafe_allow_html=True,body=str(i+1)+'. '+response["sorted_reviews"]["Reviews"][i]+' <b><i>drug used: </i> :green['+response["sorted_reviews"]["Drugs"][i]+']</b>')
-    
-
-    """
-    Contraceptiview is an AI-powered platform analyzing contraceptive reviews & side effects.
-    Enhance reproductive health awareness with sentiment analysis,topic modeling & personalized insights.
-    """
